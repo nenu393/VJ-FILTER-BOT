@@ -50,7 +50,7 @@ BOT_TOKEN = environ.get('BOT_TOKEN', "7464514161:AAGsTYKio5wngmdYczy6WKQF35cICdQ
 
 CACHE_TIME = int(environ.get('CACHE_TIME', 1800))
 
-PICS = (environ.get('PICS', 'https://graph.org/file/a11c1905f9558ebccfaa2.jpg')).split() #SAMPLE PIC
+PICS = (environ.get('PICS', 'https://telegra.ph/file/e90be4051f95d97aa57da-dc23a69b7748db9e64.jpg')).split() #SAMPLE PIC
 
 NOR_IMG = environ.get("NOR_IMG", "https://graph.org/file/b69af2db776e4e85d21ec.jpg")
 
